@@ -21,10 +21,10 @@ class TicketlandSpider(scrapy.Spider):
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                           "AppleWebKit/537.36 (KHTML, like Gecko) "
                           "Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "application/json, text/javascript, */*; q=0.01",  # что хоти получить json, а не html
-            "Accept-Language": "ru,en;q=0.9",  # предпочтения языка q=0.9 приоритет
+            "Accept": "application/json, text/javascript, */*; q=0.01",
+            "Accept-Language": "ru,en;q=0.9",
             "X-Requested-With": "XMLHttpRequest",
-            "Referer": "https://www.ticketland.ru/"  # имитируем переход с данного сайта
+            "Referer": "https://www.ticketland.ru/"
         }
 
         # Если сразу ссылка на JSON с картой

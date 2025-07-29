@@ -1,0 +1,1136 @@
+[
+    {
+        "sector": "Партер",
+        "row": 2,
+        "seat": 3,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 2,
+        "seat": 4,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 2,
+        "seat": 5,
+        "price": 5000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 2,
+        "seat": 6,
+        "price": 5000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 2,
+        "seat": 7,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 2,
+        "seat": 8,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 2,
+        "seat": 9,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 2,
+        "seat": 10,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 2,
+        "seat": 11,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 2,
+        "seat": 13,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 2,
+        "seat": 14,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 2,
+        "seat": 15,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 2,
+        "seat": 16,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 2,
+        "seat": 17,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 2,
+        "seat": 18,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 3,
+        "seat": 9,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 3,
+        "seat": 10,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 3,
+        "seat": 11,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 3,
+        "seat": 12,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 3,
+        "seat": 13,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 3,
+        "seat": 16,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 3,
+        "seat": 17,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 3,
+        "seat": 18,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 3,
+        "seat": 19,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 3,
+        "seat": 20,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 3,
+        "seat": 23,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 3,
+        "seat": 24,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 4,
+        "seat": 5,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 4,
+        "seat": 6,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 4,
+        "seat": 7,
+        "price": 5000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 4,
+        "seat": 8,
+        "price": 5000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 4,
+        "seat": 11,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 4,
+        "seat": 12,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 4,
+        "seat": 27,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 5,
+        "seat": 5,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 5,
+        "seat": 6,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 5,
+        "seat": 7,
+        "price": 5000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 5,
+        "seat": 8,
+        "price": 5000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 5,
+        "seat": 9,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 5,
+        "seat": 10,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 5,
+        "seat": 21,
+        "price": 5000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 5,
+        "seat": 22,
+        "price": 5000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 5,
+        "seat": 23,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 5,
+        "seat": 24,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 5,
+        "seat": 29,
+        "price": 1500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 6,
+        "seat": 3,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 6,
+        "seat": 5,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 6,
+        "seat": 6,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 6,
+        "seat": 7,
+        "price": 5000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 6,
+        "seat": 8,
+        "price": 5000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 6,
+        "seat": 9,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 6,
+        "seat": 10,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 6,
+        "seat": 11,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 6,
+        "seat": 12,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 6,
+        "seat": 17,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 6,
+        "seat": 18,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 6,
+        "seat": 19,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 6,
+        "seat": 20,
+        "price": 6000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 6,
+        "seat": 23,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 6,
+        "seat": 24,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 6,
+        "seat": 29,
+        "price": 1500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 7,
+        "seat": 29,
+        "price": 1500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 5,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 6,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 7,
+        "price": 4500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 8,
+        "price": 4500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 9,
+        "price": 4500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 10,
+        "price": 4500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 11,
+        "price": 4500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 12,
+        "price": 4500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 13,
+        "price": 4500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 14,
+        "price": 4500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 17,
+        "price": 4500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 18,
+        "price": 4500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 19,
+        "price": 4500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 20,
+        "price": 4500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 21,
+        "price": 4500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 22,
+        "price": 4500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 23,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 24,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 27,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 28,
+        "price": 1500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 8,
+        "seat": 29,
+        "price": 1500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 3,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 4,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 5,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 6,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 7,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 8,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 9,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 10,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 11,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 12,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 13,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 14,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 17,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 18,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 19,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 20,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 21,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 22,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 23,
+        "price": 4000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 26,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 27,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 28,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 29,
+        "price": 1500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 9,
+        "seat": 30,
+        "price": 1500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 10,
+        "seat": 3,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 10,
+        "seat": 4,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 10,
+        "seat": 5,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 10,
+        "seat": 6,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 10,
+        "seat": 7,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 10,
+        "seat": 8,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 10,
+        "seat": 9,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 10,
+        "seat": 10,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 10,
+        "seat": 21,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 10,
+        "seat": 22,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 10,
+        "seat": 23,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 10,
+        "seat": 24,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 10,
+        "seat": 25,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 10,
+        "seat": 26,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 10,
+        "seat": 27,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 10,
+        "seat": 28,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 11,
+        "seat": 3,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 11,
+        "seat": 4,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 11,
+        "seat": 5,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 11,
+        "seat": 8,
+        "price": 2500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 11,
+        "seat": 9,
+        "price": 2500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 11,
+        "seat": 19,
+        "price": 2500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 11,
+        "seat": 20,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 11,
+        "seat": 21,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 11,
+        "seat": 22,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 11,
+        "seat": 23,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 11,
+        "seat": 24,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 11,
+        "seat": 25,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 12,
+        "seat": 19,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Бельэтаж",
+        "row": 1,
+        "seat": 3,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Бельэтаж",
+        "row": 1,
+        "seat": 20,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Бельэтаж",
+        "row": 1,
+        "seat": 21,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Бельэтаж",
+        "row": 1,
+        "seat": 22,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Бельэтаж",
+        "row": 1,
+        "seat": 23,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Бельэтаж",
+        "row": 1,
+        "seat": 24,
+        "price": 3000,
+        "count": 1
+    },
+    {
+        "sector": "Бельэтаж",
+        "row": 2,
+        "seat": 3,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Бельэтаж",
+        "row": 2,
+        "seat": 4,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Бельэтаж",
+        "row": 2,
+        "seat": 22,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Бельэтаж",
+        "row": 2,
+        "seat": 23,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Бельэтаж",
+        "row": 2,
+        "seat": 24,
+        "price": 2000,
+        "count": 1
+    },
+    {
+        "sector": "Ложа \"А\"",
+        "row": 1,
+        "seat": 4,
+        "price": 2500,
+        "count": 1
+    },
+    {
+        "sector": "Ложа \"А\"",
+        "row": 1,
+        "seat": 9,
+        "price": 2500,
+        "count": 1
+    },
+    {
+        "sector": "Ложа \"А\"",
+        "row": 1,
+        "seat": 10,
+        "price": 2500,
+        "count": 1
+    },
+    {
+        "sector": "Ложа \"Б\"",
+        "row": 1,
+        "seat": 1,
+        "price": 2500,
+        "count": 1
+    },
+    {
+        "sector": "Ложа \"Б\"",
+        "row": 1,
+        "seat": 10,
+        "price": 2500,
+        "count": 1
+    },
+    {
+        "sector": "Ложа \"Б\"",
+        "row": 1,
+        "seat": 15,
+        "price": 2500,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 1,
+        "seat": 3,
+        "price": 5000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 1,
+        "seat": 4,
+        "price": 5000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 1,
+        "seat": 7,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 1,
+        "seat": 8,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 1,
+        "seat": 9,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 1,
+        "seat": 10,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 1,
+        "seat": 12,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 1,
+        "seat": 13,
+        "price": 7000,
+        "count": 1
+    },
+    {
+        "sector": "Партер",
+        "row": 1,
+        "seat": 14,
+        "price": 7000,
+        "count": 1
+    }
+]
